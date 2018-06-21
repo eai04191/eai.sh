@@ -1,3 +1,5 @@
 [[redirects]]
-  from = "/win "
-  to = " https://eai04191.github.io/windows-setup/setup.bat"
+  from = "/win"
+  to = "https://eai04191.github.io/windows-setup/setup.bat"
+  status = 301
+  force = false
